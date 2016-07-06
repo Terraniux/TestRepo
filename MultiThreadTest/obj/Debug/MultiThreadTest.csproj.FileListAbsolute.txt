@@ -1,0 +1,8 @@
+c:\users\clarka1\documents\visual studio 2015\Projects\MultiThreadTest\MultiThreadTest\bin\Debug\MultiThreadTest.exe
+c:\users\clarka1\documents\visual studio 2015\Projects\MultiThreadTest\MultiThreadTest\bin\Debug\MultiThreadTest.pdb
+c:\users\clarka1\documents\visual studio 2015\Projects\MultiThreadTest\MultiThreadTest\obj\Debug\MultiThreadTest.csprojResolveAssemblyReference.cache
+c:\users\clarka1\documents\visual studio 2015\Projects\MultiThreadTest\MultiThreadTest\obj\Debug\MultiThreadTest.Properties.Resources.resources
+c:\users\clarka1\documents\visual studio 2015\Projects\MultiThreadTest\MultiThreadTest\obj\Debug\MultiThreadTest.csproj.GenerateResource.Cache
+c:\users\clarka1\documents\visual studio 2015\Projects\MultiThreadTest\MultiThreadTest\obj\Debug\MultiThreadTest.exe
+c:\users\clarka1\documents\visual studio 2015\Projects\MultiThreadTest\MultiThreadTest\obj\Debug\MultiThreadTest.pdb
+c:\users\clarka1\documents\visual studio 2015\Projects\MultiThreadTest\MultiThreadTest\obj\Debug\MultiThreadTest.Form1.resources
